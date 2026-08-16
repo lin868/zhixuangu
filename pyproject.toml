@@ -1,0 +1,7 @@
+[tool.flet]
+org_name = "com.zhixuangu"
+project_name = "zhixuangu"
+
+[tool.flet.android]
+features = ["http_permission"]
+permissions = ["android.permission.INTERNET"]
